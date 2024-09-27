@@ -1,6 +1,5 @@
 <p align="center"><img src="/docs/assets/hero.gif" alt="TBytes404" /></p>
 
-&ensp;
 
 <h1 align="center">Hi, I'm Tirtha 👋</h1>
 <h3 align="center">An enthusiastic and dedicated explorer of the cosmos.</h3>
