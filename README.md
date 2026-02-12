@@ -47,9 +47,9 @@
 ## 📊 Github Stats:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TBytes404&order=1&hide_title=true&show_icons=true&bg_color=FFFFFF00&border_color=570182&icon_color=6F42C1&title_color=6F42C1&text_color=747474&layout=donut" alt="TBytes404" height="200" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=TBytes404&order=1&hide_title=true&show_icons=true&bg_color=FFFFFF00&border_color=570182&icon_color=6F42C1&title_color=6F42C1&text_color=747474&layout=donut" alt="TBytes404" height="200" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=TBytes404&order=2&hide_title=true&show_icons=true&bg_color=FFFFFF00&border_color=570182&icon_color=6F42C1&title_color=6F42C1&text_color=747474&ring_color=570182&rank_icon=github&include_all_commits=true" alt="TBytes404" height="200" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=TBytes404&order=2&hide_title=true&show_icons=true&bg_color=FFFFFF00&border_color=570182&icon_color=6F42C1&title_color=6F42C1&text_color=747474&ring_color=570182&rank_icon=github&include_all_commits=true" alt="TBytes404" height="200" />
 </div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TBytes404&theme=shadow-purple" alt="TBytes404" height="250"/></p>
